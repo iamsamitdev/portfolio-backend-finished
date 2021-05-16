@@ -1,0 +1,9 @@
+Login to backend
+---
+URL: http://localhost:1337/admin/auth/login
+Email: admin@email.com
+Pass: Admin@1234
+
+API Endpoint
+---
+http://localhost:1337/portfolios
